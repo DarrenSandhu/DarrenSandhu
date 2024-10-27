@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAGUw7ZMcJE/7-ygJlxRqI4P5g1myfsaUg/view?utm_content=DAGUw7ZMcJE&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://darrensandhu.uk)
+[![MasterHead](/images/Github_Masterhead.jpg)](https://darrensandhu.uk)
 <h1 align="center">Hi 👋, I'm Darren Sandhu</h1>
 <h3 align="center">A Computer Science Graduate From The UK</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
