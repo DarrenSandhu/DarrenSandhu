@@ -1,4 +1,4 @@
-[![MasterHead](/images/Github_Masterhead.jpg)](https://darrensandhu.uk)
+[![MasterHead](/images/Github_Masterhead.png)](https://darrensandhu.uk)
 <h1 align="center">Hi 👋, I am Darren Sandhu</h1>
 <div style="display: flex; justify-content: center; padding-left: 60px;">
     <a href="https://git.io/typing-svg">
@@ -24,8 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/darrren_beast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/darren-sandhu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://x.com/darrren_beast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darrensandhu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/darren-sandhu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darren-sandhu-b89a791b3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
