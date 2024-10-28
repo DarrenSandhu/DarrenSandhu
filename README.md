@@ -1,6 +1,10 @@
 [![MasterHead](/images/Github_Masterhead.jpg)](https://darrensandhu.uk)
-<h1 align="center">Hi 👋, I'm Darren Sandhu</h1>
-<h3 align="center">A Computer Science Graduate From The UK</h3>
+<h1 align="center">Hi 👋, I am Darren Sandhu</h1>
+<div style="display: flex; justify-content: center; padding-left: 60px;">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&width=435&lines=I+am+a+Computer+Science+Graduate;I+am+a+Software+Engineer;I+am+a+UI%2FUX+Designer;I+am+a+Full-Stack+Developer;I+am+a+Data+Analyst;I+am+a+Machine+Learning+Engineer" alt="Typing SVG" />
+    </a>
+</div>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
